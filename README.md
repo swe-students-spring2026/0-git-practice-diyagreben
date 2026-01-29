@@ -1,5 +1,5 @@
 # Git Practice
-#Article Name: Tech Trends 2026
+# Tech Trends 2026
 [Tech Trends 2036](https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html)
 
 **Why I found this article interesting**
